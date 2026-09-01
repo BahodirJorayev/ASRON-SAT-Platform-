@@ -1,0 +1,10 @@
+{
+  "name": "Remix Digital SAT Preparation Platform",
+  "description": "High-retention, high-converting Digital SAT preparation platform with 10-minute daily habit workouts, smart mistake vault with AI clones, rapid diagnostic score forecast, official Bluebook testing engine, and Telegram community.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
